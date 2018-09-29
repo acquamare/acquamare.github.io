@@ -1,28 +1,18 @@
-## Hello There!
+# Hello There!
 
-This is Leo's school stuff.
+This is Leo's stuff. Not a lot of interesting stuff right now, so check back frequently.
 
-### Stats
+## School
 
-*Some Prerequisites:*
+[Statistics](Stats/home.md)
 
-- Estimation
+[Writing](Writing/home.md)
 
-- Confidence Intervals and hypothesis testing on means and proportions
+[Math](Math/home.md)
 
-- Normal distribution, t-distribution
+### Other
 
-- Chi square distribution
-
-- Regression and Correlation
-
-- F-Distribution, nonparametric statistics.
-
-### Stats 110
-
-Click for [Lecture 0](110/lec0.md)
-
-###Other
+[Data Science](ML.md)
 
 I also know a bit of Ruby.
 
