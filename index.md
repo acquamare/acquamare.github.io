@@ -14,10 +14,4 @@ This is Leo's stuff. Not a lot of interesting stuff right now, so check back fre
 
 [Data Science](ML.md)
 
-I also know a bit of Ruby.
-
-```ruby
-if 1 != 0
-	puts "You know it!"
-end
-```
+I also know a bit of [Ruby.](Ruby/home.md)
