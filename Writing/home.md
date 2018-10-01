@@ -26,4 +26,11 @@ One in-class 15-minute presentation on a weekly reading: **5%**
 1000 word essay on personal relationship to foreign policy **(10%)**
 
 5 best weekly responses – you must submit at least seven responses (2% each): **10%**
-- Other written components: **10%**
+
+Other written components: **10%**
+
+## 39C Research
+
+[UCI Libraries](https://guides.lib.uci.edu/w39c/AmericanForeignPolicy)
+
+(Historical Conversations Project)[hcp.md]
