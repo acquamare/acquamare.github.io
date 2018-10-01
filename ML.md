@@ -1,6 +1,6 @@
 # A Super Harsh Guide to Machine Learning
 
-## u/by thatguydr
+## by u/thatguydr
 
 - First, read f!@%ing [Hastie, Tibshirani,](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf) and whoever. Chapters 1-4 and 7-8. If you don't understand it, keep reading it until you do. You can read the rest of the book if you want. You probably should, but I'll assume you know all of it. (If you're struggling, start [here.](http://www-bcf.usc.edu/~gareth/ISL/))
 
