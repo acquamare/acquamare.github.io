@@ -10,7 +10,7 @@ Ohhhh boy.
 
 Class participation/attendance (see below for policies): **10%**
 
-One in-class 15-minute presentation on a weekly reading: **5%**
+One in-class 15-minute presentation on a weekly reading: Oct. 2nd **5%**
 - Historical Conversations Project **(25% total)**
 
 800-1000 words rough draft (due 2 weeks before final draft): **5%**

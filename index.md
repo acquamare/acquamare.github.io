@@ -1,17 +1,23 @@
-# Hello There!
+# Priorities
 
-This is Leo's stuff. Not a lot of interesting stuff right now, so check back frequently.
+## In order of Importance:
 
 ## School
-
-[Statistics](Stats/home.md)
 
 [Writing](Writing/home.md)
 
 [Math](Math/home.md)
 
+[Statistics](Stats/home.md)
+
 ### Other
 
+Food Preparation and Enjoyment
+
+Exercise
+
 [Data Science](ML.md)
+
+[Lifestyle](clothing.md)
 
 I also know a bit of [Ruby.](Ruby/home.md)
