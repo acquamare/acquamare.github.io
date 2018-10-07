@@ -18,6 +18,6 @@ Exercise
 
 [Data Science](ML.md)
 
-[Lifestyle](clothing.md)
+[Lifestyle](Clothing.md)
 
 I also know a bit of [Ruby.](Ruby/home.md)
