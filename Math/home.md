@@ -1,6 +1,7 @@
 ## Math
 
-Yay
+Yay.
+[Hyperboloidee](hyperboloid.gif)
 
 ### H3A: Linear Algebra with Emphasis on Theory
 
@@ -21,3 +22,4 @@ Professor recommends you attempt the problems with help, wait 24 hours, and atte
 ### 2E: Multivariable Calculus
 
 Yay me.
+<a href="hyperboloid.gif" download>Hyperboloido</a>
