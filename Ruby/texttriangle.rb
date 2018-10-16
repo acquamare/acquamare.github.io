@@ -1,8 +1,3 @@
-## Text Triangle
-
-*Have you ever seen those comments on Youtube where each line is an additional character and boomerangs back to one? Well, now it's easy to make them! Just run this Ruby code and it will print it out.*
-
-```ruby
 print "Enter your text: "
 text = gets.chomp
 line = text.length
@@ -33,5 +28,4 @@ end
 doc.close
 
 total_lines = line * 2 - 1
-puts total_lines.to_s + " total lines"
-```
+puts total_lines.to_s + " total lines\a"

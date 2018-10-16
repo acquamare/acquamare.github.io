@@ -1,6 +1,6 @@
 ## Brands 
 
-In order of my preference:
+Somewhat in order of my preference:
 
 - [fun](https://www.lazyoaf.com/)
 - [dreamy](http://www.stussy.co.uk/)
@@ -13,3 +13,5 @@ In order of my preference:
 - [tattoo art](http://www.doomsdayco.com/)
 - [designer, anarchist](http://www.viviennewestwood.com/)
 - [skull, gamer](http://teamsesh.bigcartel.com)
+
+(Taken from PewDiePie's video)

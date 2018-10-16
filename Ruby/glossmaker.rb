@@ -1,8 +1,3 @@
-## Glossary Maker
-
-*Do you ever feel lost when reading a book or article with a surplus of unfamiliar terms? Ever wished you could easily generate a list of the words and phrases and immediately get their meanings? Well, look no further, <a href="glossmaker.rb" download>Glossmaker</a> is here to help! Just run the program and let glossmaker do the work for ya.*
-
-```ruby
 all = Array.new
 
 puts "Enter terms (start with ! for Wiki):"
@@ -41,4 +36,3 @@ if file.end_with?(".md") == true
 	puts "Bye\a"
 else puts "Bye\a"
 end
-```
