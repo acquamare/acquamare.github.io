@@ -5,12 +5,12 @@
 ```ruby
 all = Array.new
 
-puts "Enter terms (start with ! for Wiki):"
+puts "Enter terms (end with ! for Wiki):"
 input = gets.chomp.to_s
 
 until input == ""
-	if input.start_with?("!")
-		input[0] = ""
+	if input.end_with?("!")
+		input.chop!
 		url = input.gsub(" ","_")
 		all.push("- [*#{input}*](https://en.wikipedia.org/wiki/#{url})")
 	else all.push("- [**#{input}**](https://www.google.com/search?q=dictionary&ie=utf-8&oe=utf-8&client=firefox-b-1-ab#dobs=#{input})")
@@ -22,13 +22,15 @@ puts all
 print "file: "
 file = gets.chomp
 
-while file != nil && file.end_with?(".md") == false
+while file != "" && file.end_with?(".md") != true
 	puts "please specify a markdown file"
 	print ">"
 	file = gets.chomp
 end
 
-if file.end_with?(".md") == true
+if file == ""
+	puts "Bye\a"
+else
 	doc = open(file, 'w')
 	print "title: "
 	title = gets.chomp
@@ -39,6 +41,5 @@ if file.end_with?(".md") == true
 	end
 	doc.close
 	puts "Bye\a"
-else puts "Bye\a"
 end
 ```

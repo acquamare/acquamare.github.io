@@ -2,6 +2,6 @@
 
 ### My Creations
 
-[**Text Triangle**](txttrngle.md)
+[**Text Triangle**](texttriangle.md)
 
 [**Glossmaker**](glossmaker.md)
