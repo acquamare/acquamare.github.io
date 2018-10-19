@@ -2,6 +2,8 @@
 
 ### My Creations
 
+[**Point-of-Sale**](pointofsale.md)
+
 [**Text Triangle**](texttriangle.md)
 
 [**Glossmaker**](glossmaker.md)
