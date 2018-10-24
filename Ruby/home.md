@@ -4,6 +4,8 @@
 
 [**Point-of-Sale**](pointofsale.md)
 
+[**FizzBuzz**](FizzBuzz.md)
+
 [**Text Triangle**](texttriangle.md)
 
 [**Glossmaker**](glossmaker.md)
