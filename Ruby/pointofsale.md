@@ -1,7 +1,6 @@
 ## Point of Sale
 
-*Ladies and gentleman, I am proud to present to you, my first real endeavor into the world of Classes! In about 4 hours, I was able to have enough of a grasp on how classes work to create three interconnected ones that function as a simple <a href="pointofsale.rb" download>point-of-sale machine.</a> Feel free to take a look and, if you're also new to classes, shoot me questions.*
-
+*Ladies and gentleman, I am proud to present to you, my first real endeavor into the world of Classes! In about 4 hours, I was able to have enough of a grasp on how classes work to create three interconnected ones that function as a simple <a href="https://en.wikipedia.org/wiki/Point_of_sale" download>point-of-sale machine.</a> Feel free to play around with this code.
 ```ruby
 class Item
 	attr_accessor :price, :name, :in_stock
