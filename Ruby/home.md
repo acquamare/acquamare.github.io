@@ -10,4 +10,6 @@
 
 [**Glossmaker**](glossmaker.md)
 
+[**Bubblesort**](bubblesort.md)
+
 <a href="percentfinder.rb" download><b>Percent Finder</b></a>
