@@ -1,8 +1,10 @@
-# Priorities
+# MyStuff
 
 ## In order of Importance:
 
 ## School
+
+<a href="careerfair.pdf" download><b>career fair</b></a>
 
 [Writing](Writing/home.md)
 
