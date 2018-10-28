@@ -24,7 +24,7 @@ Exercise
 
 I also know a bit of [Ruby.](Ruby/home.md)
 
-[Google Fonts test](test.html)
+[Web scraping test](scrape.htm)
 
 ```
 ```
