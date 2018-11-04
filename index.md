@@ -1,30 +1,19 @@
 # MyStuff
 
-## In order of Importance:
+I'm learning [Ruby.](Ruby/home.md) *Just for fun.*
 
-## School
+Here are some [Data Science resources.](ML.md) *Kinda gave up tbh.*
 
-<a href="careerfair.pdf" download><b>career fair</b></a>
+I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe video)*
 
-[Writing](Writing/home.md)
+## Other stuff I need to do or learn more about:
 
-[Math](Math/home.md)
+- Exercise
+- Food preparation
+- Personal Finance
 
-[Statistics](Stats/home.md)
-
-### Other
-
-Food Preparation and Enjoyment
-
-Exercise
-
-[Data Science](ML.md)
-
-[Lifestyle](Clothing.md)
-
-I also know a bit of [Ruby.](Ruby/home.md)
-
-[Web scraping test](scrape.htm)
-
-```
-```
+- Culture Theory
+- Mythology
+- Physics
+- Epistolary writing
+- Read in general
