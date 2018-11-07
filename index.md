@@ -1,5 +1,7 @@
 # MyStuff
 
+[Physics Plan](PhysicsBS.htm)
+
 I'm learning [Ruby.](Ruby/home.md) *Just for fun.*
 
 Here are some [Data Science resources.](ML.md) *Kinda gave up tbh.*
