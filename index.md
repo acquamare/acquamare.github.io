@@ -8,6 +8,8 @@ Here are some [Data Science resources.](ML.md) *Kinda gave up tbh.*
 
 I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe video)*
 
+[Developer Sandbox](template.htm)
+
 ## Other stuff I need to do or learn more about:
 
 - Exercise
