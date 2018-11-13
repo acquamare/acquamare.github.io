@@ -2,6 +2,8 @@
 
 ### My Creations
 
+[**Travelling Salesman Problem**](tsp.md)
+
 [**Point-of-Sale**](pointofsale.md)
 
 [**FizzBuzz**](FizzBuzz.md)
