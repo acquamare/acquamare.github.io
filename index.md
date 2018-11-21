@@ -6,7 +6,7 @@ Here are some [Data Science resources.](ML.md) *Kinda gave up tbh.*
 
 I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe video)*
 
-[Developer Sandbox](template.htm)
+[Developer Sandbox](sandbox/home.md)
 
 [Japanese Music](https://www.youtube.com/playlist?list=PL27NNm-I4NZgr6OKKcs_vqHoYyYd6EX7Z)
 
