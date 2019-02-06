@@ -1,4 +1,4 @@
-# MyStuff
+# MyStuff [yy](#sometext)
 
 I'm learning [Ruby.](Ruby/home.md) *Just for fun.*
 
@@ -11,6 +11,8 @@ I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe vide
 [Japanese Music](https://www.youtube.com/playlist?list=PL27NNm-I4NZgr6OKKcs_vqHoYyYd6EX7Z)
 
 [Charts](charts.html)
+
+[Node!](Node/home.md)
 
 ## Other stuff I need to do or learn more about:
 
@@ -27,7 +29,7 @@ I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe vide
 - Read in general
 
 Keywords:
-- time
+- time<a name="sometext"></a>
 - speed
 - utopia
 - cooperation
