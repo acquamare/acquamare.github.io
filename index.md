@@ -1,4 +1,4 @@
-# MyStuff [yy](#sometext)
+# MyStuff
 
 I'm learning [Ruby.](Ruby/home.md) *Just for fun.*
 
@@ -13,6 +13,8 @@ I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe vide
 [Charts](charts.html)
 
 [Node!](Node/home.md)
+
+[UCIMUN](ucimun.md)
 
 ## Other stuff I need to do or learn more about:
 
