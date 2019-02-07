@@ -31,7 +31,7 @@ I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe vide
 - Read in general
 
 Keywords:
-- time<a name="sometext"></a>
+- time
 - speed
 - utopia
 - cooperation
