@@ -1,50 +1,13 @@
 # MyStuff
 
-I'm learning [Ruby.](Ruby/home.md) *Just for fun.*
+[Things to Learn](to_learn.md)
 
-Here are some [Data Science resources.](ML.md) *Kinda gave up tbh.*
-
-I really need help in [fashion.](Clothing.md) *(Taken from Felix's wardrobe video)*
-
-[Developer Sandbox](sandbox/home.md)
-
-[Japanese Music](https://www.youtube.com/playlist?list=PL27NNm-I4NZgr6OKKcs_vqHoYyYd6EX7Z)
-
-[Charts](charts.html)
-
-[Node!](Node/home.md)
+[Wish List](wishlist/wish_list.md)
 
 [UCIMUN](ucimun.md)
 
-## Other stuff I need to do or learn more about:
+Got any [fashion ideas](Clothing.md)?
 
-- Exercise
-- Food preparation / waste minimization
-- Personal Finance
-- Audio Recording
+[Built-in web graphics](sandbox/home.md)
 
-- Culture Theory
-- Mythology
-- Physics
-- cinema theory
-- Epistolary writing
-- Read in general
-
-Keywords:
-- time
-- speed
-- utopia
-- cooperation
-- subversion / revolt
-- war
-- tolerance
-- amor fati
-- transcendence
-- ideology
-- remorse
-- destiny
-- memory, conscience ( you don't need to time travel if you have a memory of it.)
-- fear and contagion
-- globalization / unionization
-- stasis: resistance(reforms to mob rule) and challenges(discourse to terrorism)
-
+[Mandopop](https://www.youtube.com/playlist?list=PL27NNm-I4NZgr6OKKcs_vqHoYyYd6EX7Z)
