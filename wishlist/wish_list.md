@@ -1,7 +1,7 @@
 # Wish List
 
 - Turntable (used) ~ $250
-- [Vinyls](vinyls.md)
+- [Vinyls](music.md)
 - 2 black jeans ~ $100
 - waterproof boots
 - [Books!](writers.md)

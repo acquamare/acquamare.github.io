@@ -2,7 +2,7 @@
 
 - [NodeJS](nodejs/home.md)
 - personal finance/accounting
-- [data science/machine learning](ml.md)
+- [data science/machine learning](ML.md)
 - cooking
 - laundry
 - waste minimization
@@ -13,7 +13,8 @@
 - Mythology
 - Physics
 - cinema theory
-- Epistolary fiction-
+- Epistolary fiction
+- [Jazz](jazz_hist.md)
 
 Keywords:
 - subversion

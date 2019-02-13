@@ -7,3 +7,5 @@
 - Head Hunters
 - Red Clay
 - Flower Boy
+
+[Individual Songs List](favsongs.md) as consideration (blacklist)
