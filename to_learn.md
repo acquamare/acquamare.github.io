@@ -26,4 +26,4 @@ Keywords:
 
 Old:
 
-- [Ruby](ruby/home.md)
+- [Ruby](rubylang/home.md)
