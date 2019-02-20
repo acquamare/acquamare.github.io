@@ -1,13 +1,14 @@
 # Things to Learn
 
 - [NodeJS](nodejs/home.md)
+- [computers!](https://teachyourselfcs.com)
 - personal finance/accounting
 - [data science/machine learning](ML.md)
 - cooking
 - laundry
 - waste minimization
-- cycling
 - audio recording
+- spin cycling
 
 - Culture Theory
 - Mythology

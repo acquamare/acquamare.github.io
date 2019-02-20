@@ -1,10 +1,14 @@
 # Wish List
 
-- Turntable (used) ~ $250
-- [Vinyls](music.md)
-- 2 black jeans ~ $100
-- waterproof boots
-- [Books!](writers.md)
+- USB Microphone w/ pop filter
+- a pair of black jeans
+- gym membership
+
+## not as important
+- turntable
+- [vinyls](music.md)
+- [books!](writers.md)
 - suit or coat
 - hat
-- Headphones ~ $50
+- keyboard
+- dvd player
