@@ -1,7 +1,7 @@
 # Things to Learn
 
 - [NodeJS](nodejs/home.md)
-- [computers!](https://teachyourselfcs.com)
+- [computers!](https://teachyourselfcs.com) [(programming)](https://repl.it/languages)
 - personal finance/accounting
 - [data science/machine learning](ML.md)
 - cooking
