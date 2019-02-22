@@ -1,8 +1,8 @@
 # 2/21/19
 
 Spoke with school psychiatrist, because I had the feeling I had to meet her. Diagnosed with severe, "textbook" social anxiety disorder. She acknowledged that I had no clue. She wants me to visit both a psychiatrist, for medication, alongside a therapist (CBT) or therapy group. Medication: Lexapro is okay for now, but need something better. needs a nice strong dose, more like 20 mg than 10 mg. Start having interactions. Make friends. For the pills to do their magic, you need to actually be engaging and assertive. Once a social life is established, gradually ease off of medication.
-
 I know my diagnosis is nothing exotic. It's just a label for a range of behaviors, and having something to call it makes people feel better. The only reason I'm giving her advice some consideration is because she said that I might grow old having not overcome this if I don't get treatment and support.
+
 ---
 ## Possible medications
 
