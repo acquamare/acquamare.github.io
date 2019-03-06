@@ -5,16 +5,16 @@
 - personal finance/accounting
 - [data science/machine learning](ML.md)
 - cooking
-- laundry
 - waste minimization
 - audio recording
+- architecture
+- juggling
 - spin cycling
 
 - Culture Theory
 - Mythology
 - Physics
 - cinema theory
-- Epistolary fiction
 - [Jazz](jazz_hist.md)
 
 Keywords:
