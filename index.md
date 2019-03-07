@@ -1,14 +1,28 @@
 # MyStuff
 
-[Things to Learn](to_learn.md)
+> Use it or lose it
 
-[Wish List](wishlist/wish_list.md)
+## Strive to do 2 of these every day:
+
+- Podcasting (10 minutes)
+
+- Reading (100 pages)
+
+- Drawing (1 floor plan)
+
+- Bass guitar (1 groove)
+
+- cinematography (1 video)
+
+- erging (1 6k)
+
+- cooking (1 dish)
+
+- Japanese (1 sentence)
+---
+[other things to Learn](to_learn.md)
 
 [UCIMUN](ucimun.md)
-
-Got any [fashion ideas](Clothing.md)?
-
-[Built-in web graphics](sandbox/home.md)
 
 [Mandopop](https://www.youtube.com/playlist?list=PL27NNm-I4NZgr6OKKcs_vqHoYyYd6EX7Z)
 

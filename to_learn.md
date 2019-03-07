@@ -4,17 +4,13 @@
 - [computers!](https://teachyourselfcs.com) [(programming)](https://repl.it/languages)
 - personal finance/accounting
 - [data science/machine learning](ML.md)
-- cooking
 - waste minimization
-- audio recording
-- architecture
 - juggling
 - spin cycling
 
 - Culture Theory
 - Mythology
 - Physics
-- cinema theory
 - [Jazz](jazz_hist.md)
 
 Keywords:
