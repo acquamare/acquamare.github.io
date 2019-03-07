@@ -2,7 +2,7 @@
 
 > Use it or lose it
 
-## Strive to do 2 of these every day:
+### Strive to do 2 of these every day:
 
 - Podcasting (10 minutes)
 
@@ -19,7 +19,9 @@
 - cooking (1 dish)
 
 - Japanese (1 sentence)
+
 ---
+
 [other things to Learn](to_learn.md)
 
 [UCIMUN](ucimun.md)
