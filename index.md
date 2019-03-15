@@ -8,17 +8,13 @@
 
 - Reading (100 pages)
 
-- Drawing (1 floor plan)
+- NodeJS
 
 - Bass guitar (1 groove)
 
-- cinematography (1 video)
+- Cardio (30 min)
 
-- erging (1 6k)
-
-- cooking (1 dish)
-
-- Japanese (1 sentence)
+- Korean (1 sentence)
 
 ---
 
