@@ -2,19 +2,19 @@
 
 > Use it or lose it
 
-### Strive to do 2 of these every day:
+### Things to do:
 
-- Podcasting (10 minutes)
+- [Statstics / Machine Learning](ML.md)
 
-- Reading (100 pages)
+- [CompSci](https://teachyourselfcs.com) / [NodeJS](http://repl.it/languages/nodejs)
 
-- NodeJS
+- Poetry
 
-- Bass guitar (1 groove)
+- Piano / Music Theory
 
-- Cardio (30 min)
+- Cardio / Calisthenics
 
-- Korean (1 sentence)
+- Korean
 
 ---
 
