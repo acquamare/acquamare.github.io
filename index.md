@@ -4,7 +4,7 @@
 
 ### Things to do:
 
-- [Statstics / Machine Learning](ML.md)
+- [Statistics / Machine Learning](ML.md)
 
 - [CompSci](https://teachyourselfcs.com) / [NodeJS](http://repl.it/languages/nodejs)
 
