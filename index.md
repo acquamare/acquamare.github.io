@@ -4,17 +4,21 @@
 
 ### Things to do:
 
-- [Statistics / Machine Learning](ML.md)
+- [Statistics / Machine Learning](ML.md) (along with multivariable calculus, linear algebra)
 
-- [CompSci](https://teachyourselfcs.com) / [NodeJS](http://repl.it/languages/nodejs)
+- [NodeJS](http://repl.it/languages/nodejs)
 
-- Poetry
+- Electricity
+
+- Poetry / Podcasting
 
 - Piano / Music Theory
 
 - Cardio / Calisthenics
 
 - Korean
+
+- Care for senior citizens
 
 ---
 
