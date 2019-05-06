@@ -4,27 +4,21 @@
 
 ### Things to do:
 
-- [Statistics / Machine Learning](ML.md) (along with multivariable calculus, linear algebra)
-
-- [NodeJS](http://repl.it/languages/nodejs)
-
-- Electricity
-
-- Poetry / Podcasting
-
-- Piano / Music Theory
-
-- Cardio / Calisthenics
+- MATH (& [stats](statlearning.com))
 
 - Korean
 
-- Care for senior citizens
+- Poetry, Podcasting
+
+- Fitness
+
+- work/volunteer
+
+- READ (Danielewski, Dostoyevsky, etc.)
 
 ---
 
 [other things to Learn](to_learn.md)
-
-[UCIMUN](ucimun.md)
 
 [Mandopop](https://www.youtube.com/playlist?list=PL27NNm-I4NZgr6OKKcs_vqHoYyYd6EX7Z)
 

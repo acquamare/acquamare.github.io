@@ -7,7 +7,6 @@
 
 - Culture Theory
 - Mythology
-- Physics
 - [Jazz](jazz_hist.md)
 
 Keywords:
