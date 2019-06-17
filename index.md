@@ -14,11 +14,13 @@
 
 - work/volunteer
 
-- READ (Danielewski, Dostoyevsky, etc.)
+- READ (Danielewski, Dostoyevsky, Stephenson)
 
 ---
 
 [other things to Learn](to_learn.md)
+
+[Hearthstone](hs.md)
 
 [Mandopop](https://www.youtube.com/playlist?list=PL27NNm-I4NZgr6OKKcs_vqHoYyYd6EX7Z)
 
