@@ -1,6 +1,5 @@
 # Things to Learn
 
-- personal finance/accounting
 - waste minimization
 - juggling
 - spin cycling

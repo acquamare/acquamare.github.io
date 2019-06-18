@@ -4,15 +4,13 @@
 
 ### Things to do:
 
+- [Korean](talktomeinkorean.com)
+
 - MATH (& [stats](statlearning.com))
 
-- Korean
+- Poetry, Voice Recording
 
-- Poetry, Podcasting
-
-- Fitness
-
-- work/volunteer
+- Finance / Stocks
 
 - READ (Danielewski, Dostoyevsky, Stephenson)
 
